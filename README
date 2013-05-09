@@ -1,0 +1,13 @@
+misc modules/templates/snippets
+
+http_async: a must have wrapper around  AnyEvent::HTTP::http_request
+
+SetTheory: the set operations ∪, ∩, -, ^
+    ∪ : union                (elements that are both in A or B)
+    ∩ : intersection         (elements incommon)
+    - : difference           (elements that are members of A but not members of B)
+    ^ : symmetric difference (only in A or only in B but not both)
+
+Module: a module template (yeah it is that difficult in Perl :P)
+
+special_literals: those come in handy from time to time
